@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Practica6</string>
+    <string name="altura">Altura</string>
+    <string name="peso">Peso</string>
+    <string name="pistaAltura">Inserte su altura</string>
+    <string name="pistaPeso">Inserte su peso</string>
+    <string name="unidadesPeso">(Kg)</string>
+    <string name="unidadesAltura">(Cms)</string>
+    <string name="Boton1">Cálculo de IMC:</string>
+    <string name="resultadoIMC">Calculadora de IMC</string>
+    <string name="errorDatos">Error al procesar los datos introducidos</string>
+    <string name="resultadoDefecto" />
+    <string name="genero">Genero</string>
+    <string name="masculino">Hombre</string>
+    <string name="mujer">Mujer</string>
+    <string name="fechaNacimiento">Fecha de Nacimiento</string>
+    <string name="CalcularIGCE">Cálculo de IGCE</string>
+    <string name="resultadoIGCE">Cálculo de IGCE</string>
+    <string name="errorFecha">Ha introducido una fecha posterior a la actual</string>
+    <string name="errorSexo">No ha elegido Sexo</string>
+    <string name="errorFecha2">No ha introducido ninguna fecha</string>
+    <string name="errorIMC">No ha calculado el IMC</string>
+</resources>
