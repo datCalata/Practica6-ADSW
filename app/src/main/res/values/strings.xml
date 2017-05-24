@@ -20,4 +20,12 @@
     <string name="errorSexo">No ha elegido Sexo</string>
     <string name="errorFecha2">No ha introducido ninguna fecha</string>
     <string name="errorIMC">No ha calculado el IMC</string>
+    <string name="condicion1">Delgadez Severa</string>
+    <string name="condicion2">Delgadez Moderada</string>
+    <string name="condicion3">Delgadez no muy pronunciada</string>
+    <string name="condicion4">Normal</string>
+    <string name="condicion5">Preobeso</string>
+    <string name="condicion6">Obeso tipo I</string>
+    <string name="condicion7">Obeso tipo II</string>
+    <string name="condicion8">Obeso tipo III</string>
 </resources>

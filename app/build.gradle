@@ -4,7 +4,7 @@ android {
     compileSdkVersion 25
     buildToolsVersion "25.0.3"
     defaultConfig {
-        applicationId "com.example.jcala.practica6"
+        applicationId "es.upm.dit.adsw.ej6"
         minSdkVersion 19
         targetSdkVersion 25
         versionCode 1
